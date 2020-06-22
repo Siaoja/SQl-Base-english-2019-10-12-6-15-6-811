@@ -24,3 +24,5 @@ Please create a local database for a student examination system(student_examinat
    |  4   |    002     |    1002    | 60.5  |
 
 Please use SQL to implement above demands and provide a description with a screenshot of the implementation result.
+
+完成结果存放在exercise1文件夹下：图片一为创建数据库、表的SQL语句，图片二为插入数据的SQL语句，图片三为输出表内容。.sql文件为Navicat转储文件。
